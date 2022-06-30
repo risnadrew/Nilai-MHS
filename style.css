@@ -1,0 +1,7 @@
+.box{
+    background-image: url("idx.png");
+    background-size: cover;
+    padding-top: 100px;
+    padding-left: 150px;
+    font-family:cursive;
+}

@@ -1,0 +1,7 @@
+.container{
+    background-image: url("bg2.png");
+    background-size:cover;
+    padding-top: 280px ;
+    padding-left: 150px ;
+    font-family: monospace;
+}
